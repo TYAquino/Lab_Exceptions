@@ -1,0 +1,14 @@
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\bin\Debug\net8.0\Lab_Exceptions.exe
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\bin\Debug\net8.0\Lab_Exceptions.deps.json
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\bin\Debug\net8.0\Lab_Exceptions.runtimeconfig.json
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\bin\Debug\net8.0\Lab_Exceptions.dll
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\bin\Debug\net8.0\Lab_Exceptions.pdb
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.AssemblyInfoInputs.cache
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.AssemblyInfo.cs
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.dll
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\refint\Lab_Exceptions.dll
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.pdb
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\Lab_Exceptions.genruntimeconfig.cache
+C:\Users\aveli\OneDrive\Desktop\Program\oop2\Labs\Lab_Exceptions\Lab_Exceptions\obj\Debug\net8.0\ref\Lab_Exceptions.dll
